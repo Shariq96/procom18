@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "790259752468",
+    "firebase_url": "https://procom18-effbd.firebaseio.com",
+    "project_id": "procom18-effbd",
+    "storage_bucket": "procom18-effbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790259752468:android:27effc42409e2032",
+        "android_client_info": {
+          "package_name": "com.procom18.assasin.procom18"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790259752468-1r03iic5275eqalpsv8tol4fc2k1qac5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.procom18.assasin.procom18",
+            "certificate_hash": "6300bc54eb8f43476fec280f4b7878c27ea2c780"
+          }
+        },
+        {
+          "client_id": "790259752468-lhek52m07okevc2dtin0u2mrevof1mvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSjXrH-DwCVeRJcoRkTd8EKBfGXQcCE5E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790259752468-lhek52m07okevc2dtin0u2mrevof1mvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
